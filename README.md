@@ -1,3 +1,4 @@
+[![Depfu](https://badges.depfu.com/badges/fe4f90d0dffc9409a919005aece7ea29/status.svg)](https://depfu.com) [![Depfu](https://badges.depfu.com/badges/fe4f90d0dffc9409a919005aece7ea29/overview.svg)](https://depfu.com/repos/github/Poukame/react-ts-chakraUI-Vite-PWA-Vitest-template?project_id=36791)
 # Boilerplate / Template
 
 This boilerplate monorepo includes 3 configs type:
