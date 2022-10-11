@@ -1,28 +1,30 @@
 # Boilerplate / Template
 
-This boilerplate includes:
-- Vite
-- React
-- TypeScript
-- Chakra UI
+This boilerplate monorepo includes 3 configs type:
 
-The 'with-PWA' branch includes:
-- Vite PWA which is config ready and work as a PWA out of the box.
+1. React + TypeScript + Chakra UI + Vite
+2. React + TypeScript + Chakra UI + Vite + Vite PWA
+3. React + TypeScript + Chakra UI + Vite + Vitest (for testing)
 
 ## How to use
 
-1. Click on "use this template"
-2. If you want PWA click on "include all branches"
-3. Clone the repo locally `git clone <your SHH key>`
-4. `cd <your repo name>`
-5. `npm i`
-6. You're set!
-7. if you want to use PWA you'll have to switch to 'with-PWA' branch.
+1. Click on "use this template" in GitHub
+2. Clone the repo locally `git clone <your SHH key>`
+3. Grab all the files in the config you want and drag them to the root folder you just created
+4. Delete the other config folder
+3. `cd <your repo name>`
+4. `npm install`
+5. You're set!
 
+### Screenshot
+
+![PWA install ready](./pwa-install.webp)
+![Vitest UI](./vitest-UI.webp)
+![Vitest Coverage](./vitest-coverage.webp)
 ## Package Update
 
 The package of this repo update automatically on a regular basis.
-But if you want to make sure you're are using the latest package use :
+But if you want to make sure you're are using the latest package use:
 `npm update --save --include=dev`
 
 ## Chakra UI theming
