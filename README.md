@@ -26,7 +26,12 @@ This boilerplate monorepo includes 3 configs type:
 
 The package of this repo update automatically on a regular basis.
 But if you want to make sure you're are using the latest package use:
-`npm update --save --include=dev`
+
+NPM: `npm update --save --include=dev`
+
+PNPM: `pnpm up --latest`
+
+YARN: `yarn upgrade --latest`
 
 ## Chakra UI theming
 
