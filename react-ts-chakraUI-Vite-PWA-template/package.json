@@ -9,10 +9,10 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@chakra-ui/react": "^2.4.2",
+    "@chakra-ui/react": "^2.4.3",
     "@emotion/react": "^11.10.5",
     "@emotion/styled": "^11.10.5",
-    "framer-motion": "^7.6.18",
+    "framer-motion": "^7.6.19",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
@@ -20,8 +20,8 @@
     "@vitejs/plugin-react": "^2.2.0",
     "@types/react": "^18.0.26",
     "@types/react-dom": "^18.0.9",
-    "typescript": "^4.9.3",
-    "vite": "^3.2.4",
+    "typescript": "^4.9.4",
+    "vite": "^3.2.5",
     "vite-plugin-pwa": "^0.13.3"
   }
 }
