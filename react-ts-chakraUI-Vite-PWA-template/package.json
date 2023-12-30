@@ -9,18 +9,18 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@chakra-ui/react": "^2.4.6",
-    "@emotion/react": "^11.10.5",
-    "@emotion/styled": "^11.10.5",
+    "@chakra-ui/react": "^2.8.2",
+    "@emotion/react": "^11.11.3",
+    "@emotion/styled": "^11.11.0",
     "framer-motion": "^7.10.3",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
   "devDependencies": {
     "@vitejs/plugin-react": "^2.2.0",
-    "@types/react": "^18.0.26",
-    "@types/react-dom": "^18.0.10",
-    "typescript": "^4.9.4",
+    "@types/react": "^18.2.46",
+    "@types/react-dom": "^18.2.18",
+    "typescript": "^4.9.5",
     "vite": "^3.2.7",
     "vite-plugin-pwa": "^0.13.3"
   }
