@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@chakra-ui/react": "^2.8.2",
-    "@emotion/react": "^11.11.3",
+    "@emotion/react": "^11.11.4",
     "@emotion/styled": "^11.11.0",
     "framer-motion": "^7.10.3",
     "react": "^18.2.0",
@@ -18,8 +18,8 @@
   },
   "devDependencies": {
     "@vitejs/plugin-react": "^2.2.0",
-    "@types/react": "^18.2.52",
-    "@types/react-dom": "^18.2.18",
+    "@types/react": "^18.2.61",
+    "@types/react-dom": "^18.2.19",
     "typescript": "^4.9.5",
     "vite": "^3.2.8",
     "vite-plugin-pwa": "^0.13.3"
