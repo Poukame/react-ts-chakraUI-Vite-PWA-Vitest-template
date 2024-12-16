@@ -13,8 +13,8 @@
   },
   "dependencies": {
     "@chakra-ui/react": "^2.10.4",
-    "@emotion/react": "^11.13.5",
-    "@emotion/styled": "^11.13.5",
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.0",
     "framer-motion": "^7.10.3",
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
@@ -23,8 +23,8 @@
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^14.5.2",
-    "@types/react": "^18.3.14",
-    "@types/react-dom": "^18.3.2",
+    "@types/react": "^18.3.16",
+    "@types/react-dom": "^18.3.5",
     "@vitejs/plugin-react": "^2.2.0",
     "@vitest/coverage-c8": "^0.23.4",
     "@vitest/ui": "^0.23.4",
